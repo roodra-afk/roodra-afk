@@ -3,8 +3,8 @@ Rudra Sharma | Cybersecurity Aspirant
 ### 🚀 Technical Focus
 I am a college student and a Linux Enthusiast, specializing in network security and ethical hacking.
 
-- 🎓 Preparing for **CEH (Certified Ethical Hacker)** & **CCNA**.
-- 🔍 Active **Bug Bounty Hunter** (focusing on Web App Security).
+- 🎓 Preparing for **CEH (Certified Ethical Hacker) v13** & **CCNA**.
+- 🔍 Active **Bug Bounty Hunter**.
 - 🐧 Passionate about **Linux Internals** and **Customization**.
 - 📊 Interested in the **Mathematics of Probability** as it applies to risk assessment.
 
