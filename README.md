@@ -32,7 +32,7 @@ I am a college student and a Linux Enthusiast, specializing in network security 
 ### 📊 GitHub Activity
 | **Stats** | **Streaks** |
 | :--- | :--- |
-| ![Stats](https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=radical) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=[YOUR-USERNAME]&theme=radical) |
+| ![Stats](https://github-readme-stats.vercel.app/api?username=[roodra-afk]&show_icons=true&theme=radical) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=[roodra-afk]&theme=radical) |
 
 ---
 
