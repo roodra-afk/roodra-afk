@@ -1,7 +1,7 @@
-# Rudra Sharma | Cybersecurity Appreciator
+## Rudra Sharma | Cybersecurity Appreciator
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4EAA25&width=435&lines=B.Tech+CSE+Candidate;Ethical+Hacker+%26+Bug+Bounty+Hunter;Linux+Kernel+Enthusiast;Network+Security+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4EAA25&width=435&lines=Linux+Kernel+%26+Digital+Fornsics+Enthusiast" alt="Typing SVG" />
 </p>
 
 ### 🛡️ About Me
