@@ -36,7 +36,7 @@ I am a dedicated Cybersecurity Aspirant focusing on the intersection of network 
 
 > **[stegx](https://github.com/roodra-afk/steg)** > Advanced image steganography tool utilizing **AES-GCM** encryption for secure data embedding.
 
-* **[Dotfiles]:** Custom GNOME/Zsh security-themed rice optimized for speed.
+* **[Dotfiles](https://github.com/roodra-afk/dotfiles)** > Custom GNOME/Zsh security-themed rice optimized for speed.
 
 ---
 
