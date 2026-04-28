@@ -1,7 +1,7 @@
 ## Rudra Sharma | Cybersecurity Appreciator
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4EAA25&width=500&lines=Linux+Kernel+%26+Digital+Forensics+Enthusiast;Offensive+Security+%7C+Automation+%7C+Recon" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4EAA25&width=500&lines=Linux+Kernel+%26+Digital+Forensics+Ent;Offensive+Security+%7C+Automation+%7C+Recon" alt="Typing SVG" />
 </p>
 
 ### 🛡️ About Me
@@ -19,7 +19,7 @@ Dedicated cybersecurity aspirant focused on offensive security, Linux systems, a
 > **[VulnSight](https://github.com/roodra-afk/vulnsight)**  
 > Automated web vulnerability scanner built in Python featuring recursive crawling, SQL injection testing, reflected XSS detection, form analysis, attack-surface deduplication, and structured vulnerability reporting.
 
-> **[StegX](https://github.com/roodra-afk/steg)**  
+> **[stegx](https://github.com/roodra-afk/steg)**  
 > Advanced image steganography tool utilizing **AES-GCM encryption** for secure data embedding and extraction.
 
 ---
