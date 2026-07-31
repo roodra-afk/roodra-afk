@@ -1,12 +1,22 @@
-# Rudra Sharma
+<table>
+<tr>
+<td>
 
-<p align="left">
-  <img src="CEH_2E345519D3F7.png" width="90" alt="Certified Ethical Hacker (CEH)">
-</p>
+# Rudra Sharma
 
 **Cybersecurity | Malware Analysis | Digital Forensics | Python**
 
 Cybersecurity practitioner focused on building practical security tools and gaining hands-on experience in malware analysis, vulnerability research, and defensive security.
+
+</td>
+
+<td width="120" align="center">
+
+<img src="CEH_2E345519D3F7.png" width="65" alt="Certified Ethical Hacker">
+
+</td>
+</tr>
+</table>
 
 ---
 
