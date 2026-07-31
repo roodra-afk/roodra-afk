@@ -1,36 +1,64 @@
-## Rudra Sharma | Cybersecurity Appreciator
+# Rudra Sharma
+
+Cybersecurity | Malware Analysis | Digital Forensics | Python
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4EAA25&width=500&lines=Linux+Kernel+%26+Digital+Forensics+Enthusiast;Offensive+Security+%7C+Automation+%7C+Recon" alt="Typing SVG" />
+  <img src="CEH_2E345519D3F7.png" width="120" alt="Certified Ethical Hacker (CEH)">
 </p>
 
-### 🛡️ About Me
-Dedicated cybersecurity aspirant focused on offensive security, Linux systems, and network defense. I enjoy building security tooling, automating reconnaissance workflows, and deepening my understanding of real-world attack surfaces.
-
-- 🎓 Currently preparing for **CEH v13** & **CCNA**
-- 🐧 **Linux Power User:** Terminal-centric workflow enthusiast with strong shell/Linux fundamentals
-- 🔍 **Bug Bounty:** Active on private and public programs
-- 📊 **Security Research:** Interested in vulnerability analysis, exploit methodology, and risk assessment
+Cybersecurity practitioner focused on building practical security tools and gaining hands-on experience in malware analysis, vulnerability research, and defensive security.
 
 ---
 
-### 📂 Featured Research & Projects
+## About
 
-> **[VulnSight](https://github.com/roodra-afk/vulnsight)**  
-> Automated web vulnerability scanner built in Python featuring recursive crawling, SQL injection testing, reflected XSS detection, form analysis, attack-surface deduplication, and structured vulnerability reporting.
+I enjoy understanding how systems fail, how attackers exploit them, and how defenders detect and respond to security threats. My projects emphasize practical implementation over theory, with a focus on building tools that solve real security problems.
 
-> **[stegx](https://github.com/roodra-afk/steg)**  
-> Advanced image steganography tool utilizing **AES-GCM encryption** for secure data embedding and extraction.
+### Areas of Interest
+
+- Malware Analysis
+- Digital Forensics
+- Vulnerability Research
+- Web Application Security
+- Detection Engineering
+- Linux
+
+---
+
+## Featured Projects
+
+### [Malware-Lab](https://github.com/roodra-afk/Malware-Lab)
+
+A hands-on malware analysis laboratory for performing static and dynamic malware analysis in an isolated environment.
+
+### [VulnSight](https://github.com/roodra-afk/vulnsight)
+
+Python-based web vulnerability scanner featuring recursive crawling, SQL injection testing, reflected XSS detection, form analysis, attack-surface deduplication, and structured vulnerability reporting.
+
+### [StegX](https://github.com/roodra-afk/stegx)
+
+Steganography toolkit utilizing AES-GCM encryption for securely embedding and extracting hidden information from image files.
 
 ---
 
-### 📫 Connect With Me
+## Certifications
 
-[<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />](https://tryhackme.com/p/humbl3g0d)
-[<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/roodra-afk)
+- Certified Ethical Hacker (CEH)
+- TryHackMe — Top 1%
 
 ---
+
+## GitHub Statistics
 
 <p align="center">
-  <i>"In the world of bits and bytes, the only constant is change."</i>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=roodra-afk&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roodra-afk&layout=compact&theme=github_dark&hide_border=true" />
 </p>
+
+---
+
+## Connect
+
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/humbl3g0d)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/roodra-afk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_PROFILE)
