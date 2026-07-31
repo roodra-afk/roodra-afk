@@ -1,26 +1,18 @@
-<table>
-<tr>
-<td width="80%">
-
 # Rudra Sharma
+
+<p align="left">
+  <img src="CEH_2E345519D3F7.png" width="90" alt="Certified Ethical Hacker (CEH)">
+</p>
 
 **Cybersecurity | Malware Analysis | Digital Forensics | Python**
 
 Cybersecurity practitioner focused on building practical security tools and gaining hands-on experience in malware analysis, vulnerability research, and defensive security.
 
-</td>
-
-<td align="right" valign="top">
-<img src="CEH_2E345519D3F7.png" width="100" alt="Certified Ethical Hacker (CEH)">
-</td>
-</tr>
-</table>
-
 ---
 
 ## About
 
-I enjoy understanding how systems fail, how attackers exploit them, and how defenders detect and respond to security threats. My work emphasizes practical implementation over theory, with a focus on building tools that solve real security problems.
+I enjoy understanding how systems fail, how attackers exploit them and how defenders detect and respond to security threats. My work focuses on building practical tools that solve real security problems while strengthening my skills in malware analysis, digital forensics, and defensive security.
 
 ### Areas of Interest
 
@@ -37,7 +29,7 @@ I enjoy understanding how systems fail, how attackers exploit them, and how defe
 
 ### [Malware-Lab](https://github.com/roodra-afk/Malware-Lab)
 
-A hands-on malware analysis laboratory for performing static and dynamic malware analysis in an isolated environment.
+Hands-on malware analysis laboratory for performing static and dynamic malware analysis in an isolated environment.
 
 ### [VulnSight](https://github.com/roodra-afk/vulnsight)
 
@@ -56,17 +48,12 @@ Steganography toolkit utilizing AES-GCM encryption for securely embedding and ex
 
 ---
 
-## GitHub Statistics
+## Activity
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=roodra-afk&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roodra-afk&layout=compact&theme=github_dark&hide_border=true" />
-</p>
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=roodra-afk&theme=github-dark&hide_border=true)](https://github.com/roodra-afk)
 
 ---
 
 ## Connect
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/humbl3g0d)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/roodra-afk)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_PROFILE)
