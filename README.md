@@ -1,18 +1,26 @@
+<table>
+<tr>
+<td width="80%">
+
 # Rudra Sharma
 
-Cybersecurity | Malware Analysis | Digital Forensics | Python
-
-<p align="left">
-  <img src="CEH_2E345519D3F7.png" width="120" alt="Certified Ethical Hacker (CEH)">
-</p>
+**Cybersecurity | Malware Analysis | Digital Forensics | Python**
 
 Cybersecurity practitioner focused on building practical security tools and gaining hands-on experience in malware analysis, vulnerability research, and defensive security.
+
+</td>
+
+<td align="right" valign="top">
+<img src="CEH_2E345519D3F7.png" width="100" alt="Certified Ethical Hacker (CEH)">
+</td>
+</tr>
+</table>
 
 ---
 
 ## About
 
-I enjoy understanding how systems fail, how attackers exploit them, and how defenders detect and respond to security threats. My projects emphasize practical implementation over theory, with a focus on building tools that solve real security problems.
+I enjoy understanding how systems fail, how attackers exploit them, and how defenders detect and respond to security threats. My work emphasizes practical implementation over theory, with a focus on building tools that solve real security problems.
 
 ### Areas of Interest
 
